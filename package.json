@@ -1,0 +1,12 @@
+{
+  "name": "github-cli",
+  "version": "1.0.0",
+  "description": "My first github CLI to keep my repos in sync across workspaces",
+  "main": "./src/index.js",
+  "repository": "https://github.com/fumani13/github-cli.git",
+  "author": "fumani",
+  "scripts": {
+	  "dev": "node ./src/index.js"
+  },
+  "license": "MIT"
+}
